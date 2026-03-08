@@ -109,11 +109,11 @@ Skills Unlocking
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suneel2506&theme=matrix&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
+## 🏆 GitHub Trophies
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suneel2506&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 
 # 📊 GitHub Statistics
 
