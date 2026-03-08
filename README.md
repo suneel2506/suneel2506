@@ -107,12 +107,6 @@ Skills Unlocking
 
 ---
 
-
-
-## 🏆 Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=suneel2506&theme=algolia&margin-w=10)
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -148,6 +142,8 @@ Skills Unlocking
 </p>
 
 ---
+
+
 
 # 🌐 Connect With Me
 
