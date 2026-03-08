@@ -143,6 +143,22 @@ Skills Unlocking
 
 ---
 
+## 🚗 Play My Mini Car Game
+
+<p align="center">
+
+<a href="https://suneel2506.github.io/car-game">
+<img src="https://img.shields.io/badge/PLAY%20GAME-Click%20Here-00ff41?style=for-the-badge&logo=gamepad"/>
+
+</a>
+
+</p>
+
+> A small browser racing game built with **HTML, CSS and JavaScript**.
+
+Controls:
+- ⬅ Left Arrow
+- ➡ Right Arrow
 
 
 # 🌐 Connect With Me
